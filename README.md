@@ -1,2 +1,0 @@
-# TechStarter.SOLID
-Principios SOLID
